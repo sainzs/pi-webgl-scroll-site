@@ -1,0 +1,16 @@
+{
+  "name": "pi-webgl-scroll-site",
+  "owner": {
+    "name": "Santiago Sainz"
+  },
+  "plugins": [
+    {
+      "name": "webgl-scroll-site",
+      "source": "./",
+      "description": "Agent skill for building immersive scroll-driven 3D websites with three.js, Vite, and a post-processing chain, verified with a numeric headless QA loop."
+    }
+  ],
+  "metadata": {
+    "description": "Marketplace for the webgl-scroll-site agent skill/plugin."
+  }
+}

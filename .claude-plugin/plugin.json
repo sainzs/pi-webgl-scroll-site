@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "webgl-scroll-site",
+  "version": "1.0.0",
+  "description": "Agent skill for building immersive scroll-driven 3D websites with three.js, Vite, and a post-processing chain, verified with a numeric headless QA loop.",
+  "author": {
+    "name": "Santiago Sainz"
+  },
+  "homepage": "https://github.com/sainzs/pi-webgl-scroll-site",
+  "license": "MIT",
+  "keywords": [
+    "three.js",
+    "webgl",
+    "vite",
+    "scrollytelling",
+    "skill"
+  ],
+  "skills": [
+    "./"
+  ]
+}
