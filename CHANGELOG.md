@@ -55,5 +55,5 @@ scroll-driven procedural three.js site.
   `transmission` + `EffectComposer` black frame and reproduced the bisect
   procedure from the skill alone.
 
-[Unreleased]: https://github.com/YOUR_USER/pi-webgl-scroll-site/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/YOUR_USER/pi-webgl-scroll-site/releases/tag/v0.1.0
+[Unreleased]: https://github.com/sainzs/pi-webgl-scroll-site/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/sainzs/pi-webgl-scroll-site/releases/tag/v0.1.0

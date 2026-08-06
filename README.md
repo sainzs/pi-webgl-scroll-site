@@ -1,6 +1,6 @@
 <div align="center">
 
-![verify](https://github.com/YOUR_USER/pi-webgl-scroll-site/actions/workflows/verify.yml/badge.svg)
+![verify](https://github.com/sainzs/pi-webgl-scroll-site/actions/workflows/verify.yml/badge.svg)
 
 # webgl-scroll-site
 
@@ -81,7 +81,7 @@ architecture, the failure catalogue, and a numeric verification loop that turns
 Python 3.9+ — installing the skill itself has no runtime dependencies.)
 
 ```bash
-git clone https://github.com/YOUR_USER/pi-webgl-scroll-site
+git clone https://github.com/sainzs/pi-webgl-scroll-site
 cd pi-webgl-scroll-site
 ./install.sh                 # auto-detects pi, Prime Agent, and Claude Code
 ```
